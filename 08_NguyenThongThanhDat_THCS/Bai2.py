@@ -12,3 +12,6 @@ def giai_phuong_trinh_bac_nhat(a, b):
 a = float(input("Nhập a: "))
 b = float(input("Nhập b: "))
 giai_phuong_trinh_bac_nhat(a, b)
+
+
+print("bé bọ là con lợn " )
