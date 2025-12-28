@@ -1,0 +1,4 @@
+ID,Ten,Gia
+1,Laptop,1200
+2,Chuot,30
+3,Ban phim,75
